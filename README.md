@@ -9,3 +9,5 @@ ao abrir o codigo tempos depois senti falta disso. mas, pretendo resolver isso n
 
 achei interessante a ideia de organizar os id's lateral, primario, uma-coluna, duas-colunas e secundario 
 de forma que ficou muito mais facil ao final do projeto criar as paginas adicionais a Home.
+
+Uma ideia de melhoria apresentada por um amigo proximo foi, adicionar um link na pagina para o Readme, pretendo fazer isso em breve
