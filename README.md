@@ -1,7 +1,7 @@
 # projeto-noticias-cidade
 
 Esse é um dos projetos do professor Jamilton Damasceno em seu curso de desenvolvimento web,
-tinha começa a fazer esse projeto tinha um tempo, porem não tinha terminado ainda, iniciarei outro projeto do curso dele para
+tinha começado a fazer esse projeto tinha um tempo, porem não tinha terminado ainda, iniciarei outro projeto do curso dele para
 relembrar sobre programação no front-end. 
 
 O ideal para um proximo projeto, para mim no caso seria aumentar a quantidade de comentarios,
